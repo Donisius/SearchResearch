@@ -1,0 +1,20 @@
+SFRW ENG 2XB3
+Michael Ilao  	-Log Admin
+			  	-User Interface Developer
+			  	-Programmer - View
+
+Rohit Saily 	-Project Leader
+				-Quality Assurance
+				-Exception handling
+				-Programmer - Model
+
+Donisius Wigie 	-Documentation
+				-Programmer - Controller
+				-Researcher
+				-Database Developer
+				
+The work being submitted by you is your group work
+
+-Note the UI may not run on all machines from eclipse
+to test functionality run simulation and to open the UI
+run the provided JAR file
